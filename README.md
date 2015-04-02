@@ -8,9 +8,13 @@ Scala : 2.11.4
 
 To execute, run following commands
 
-#sbt
+!#sbt
 
 This will open up the sbt console
 Then type
-#run
+!#run
 and press Enter
+
+#Credits
+http://www.reactive.io/tips/2014/03/28/getting-started-with-actor-based-programming-using-scala-and-akka/
+
